@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Urekhasrikanagaraj</h1>
-<h3 align="center">Hello!, I'm Urekha , currently learning B.E Computer Science And Engineering. I love designing and explore things. </h3>
+<h3 align="center">Hello!, I'm Urekha , currently learning B.E Computer Science And Engineering. Willing to explore things. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urekhasrikanagaraj&label=Profile%20views&color=0e75b6&style=flat" alt="urekhasrikanagaraj" /> </p>
 
